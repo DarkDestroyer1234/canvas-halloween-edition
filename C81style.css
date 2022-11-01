@@ -1,0 +1,21 @@
+.body_backgorund {
+	background-image: url("photo-1633177059960-489d8822eafc.jpg");
+	background-position: center;
+	background-size: cover;
+  }
+  h1
+  {
+	  color: orangered; 
+	  font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+	  border-width:10px;
+	  background-color: white; 
+	  border-style:ridge;
+  }
+  span
+  {
+	  font-size: 20px;
+  }
